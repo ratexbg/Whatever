@@ -1,0 +1,6 @@
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Whatever\bin\Debug\Whatever.exe.config
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Whatever\bin\Debug\Whatever.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Whatever\bin\Debug\Whatever.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Whatever\obj\Debug\Whatever.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Whatever\obj\Debug\Whatever.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Whatever\obj\Debug\Whatever.pdb
